@@ -1,0 +1,89 @@
+
+#title{
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    text-align: center;
+}
+
+#inputBox{
+    display: block;
+    width: 40%;
+    background-color: rgb(204, 227, 235);
+    color: rgb(88, 192, 233);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+    font-size: 18px;
+
+}
+
+#keyboard{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(48, 47, 47);
+    display: block;
+    padding: 0.1%;
+    padding-left: 0.3%;
+    padding-right: 0.3%;
+    height: 25%;
+    width: 40%;
+}
+
+.btn{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 7.5%;
+    border: none; 
+    margin: 0.2%;
+}
+
+#btnSpacebar{
+    width: 75%;
+}
+
+#btnShift{
+    height: 50px;
+    width: 23.2%;
+    color: white;
+    background-color: black;
+    border: none;  
+    margin: 0.2%;
+}
+
+#btnCaps{
+    height: 50px;
+    width: 15%;
+    color: white;
+    background-color: black;
+    border: none;  
+    margin: 0.2%;
+}
+
+#btnBackSpace{
+    height: 50px;
+    width: 15%;
+    color: white;
+    background-color: black;
+    border: none; 
+    margin: 0.2%;
+}
+
+#btnEnter{
+    height: 50px;
+    width: 23.2%;
+    color: white;
+    background-color: black;
+    border: none; 
+    margin: 0.2%;
+}
+
+#btnSubmit{
+    height: 50px;
+    width: 23%;
+    color: white;
+    background-color: black;
+    border: none; 
+    margin: 0.2%;
+}
